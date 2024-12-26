@@ -65,3 +65,6 @@ C:\Users\maxla\Desktop\COMPLEJIDAD-MEJORADO\TP_Complejidad\TP_Complejidad\TP_Com
 C:\Users\maxla\Desktop\TF_ComplejidadAlgoritmica\TF_Software_TSP -Rodrigo Lara\TF_Complejidad\TP_Complejidad\bin\Debug\TP_Complejidad.exe.config
 C:\Users\maxla\Desktop\TF_ComplejidadAlgoritmica\TF_Software_TSP -Rodrigo Lara\TF_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.exe
 C:\Users\maxla\Desktop\TF_ComplejidadAlgoritmica\TF_Software_TSP -Rodrigo Lara\TF_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.pdb
+D:\repositorios GitHub\ProyectoDiscretas_TSP\TP_Complejidad\obj\Debug\TP_Complejidad.exe
+D:\repositorios GitHub\ProyectoDiscretas_TSP\TP_Complejidad\obj\Debug\TP_Complejidad.pdb
+D:\repositorios GitHub\ProyectoDiscretas_TSP\TP_Complejidad\obj\Debug\TP_Complejidad.csproj.AssemblyReference.cache
